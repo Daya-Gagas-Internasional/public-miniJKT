@@ -1,0 +1,11 @@
+Model Information:
+* title:	Monumen Nasional - Jakarta
+* source:	https://sketchfab.com/3d-models/monumen-nasional-jakarta-f52e95bbbb7b4499a1952cd36b7824e7
+* author:	rifatnajmi (https://sketchfab.com/rifatnajmi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Monumen Nasional - Jakarta" (https://sketchfab.com/3d-models/monumen-nasional-jakarta-f52e95bbbb7b4499a1952cd36b7824e7) by rifatnajmi (https://sketchfab.com/rifatnajmi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
